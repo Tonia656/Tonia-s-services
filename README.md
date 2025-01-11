@@ -155,8 +155,8 @@
     <section id="contact">
         <h2>Contact Us</h2>
         <p>Reach out today and let us assist you!</p>
-        <p>Email: <a href="mailto:example@example.com">example@example.com</a></p>
-        <p>Phone: <a href="tel:+1234567890">+1 234 567 890</a></p>
+        <p>Email: <a href="mailto:anyanwuanthonia32@gmail.com">example@example.com</a></p>
+        <p>Phone: <a href="tel:+31630174217">+1 234 567 890</a></p>
     </section>
 
     <footer>
